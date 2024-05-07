@@ -1,13 +1,11 @@
 export const userData = {
-  githubUser: 'said7388',
-  devUsername: "said7388",
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
-  skills: ['React', 'NextJS', 'Redux', 'Express', 'NestJS', 'MySql', 'MongoDB', 'Postgres', 'Docker', 'AWS'],
-  timezone: '+6'
+  githubUser: 'jeeshan12',
+  github: 'https://github.com/jeeshan12',
+  facebook: 'https://www.facebook.com/mohdjeeshan007',
+  linkedIn: 'https://www.linkedin.com/in/mohdjeeshan/',
+  leetcode: "https://leetcode.com/jeeshan/",
+  twitter: 'https://twitter.com/jeeshan_mohd',
+  resume: "https://drive.google.com/file/d/1lIU0XMVvY3DEOB6j86p_g3YPsaSNl0A1/view?usp=sharing",
+  skills: ['Selenium Webdriver', 'Playwright', 'Cypress', 'Appium', 'Webddriver IO', 'Jenkins', 'Github Actions', 'Docker', 'AWS', 'Terraform', 'Prometheus', 'Grafana', 'Kubernetes', 'Java', 'Javascript', 'Springboot', 'Rest Assured', 'Graphql'],
+  timezone: '+5',
 };
